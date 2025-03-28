@@ -1,5 +1,5 @@
 
-Deployed Link : 
+Deployed Link : https://employee-wise.netlify.app/
 
 EmployWise User Management Application
 
@@ -99,4 +99,4 @@ Deployed on Netlify
 Contact
    D.Sai Vignesh
    dhamerla2004@gmail.com
-   Project Link: 
+   Project Link: https://employee-wise.netlify.app/
