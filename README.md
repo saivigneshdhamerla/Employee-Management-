@@ -1,33 +1,33 @@
 
 Deployed Link : 
 
->>>EmployWise User Management Application
+EmployWise User Management Application
 
 Project Overview
 This is a React-based user management application that integrates with the Reqres API to provide authentication, user listing, editing, and deletion functionality.
 Features
 
->> User Authentication
+> User Authentication :
 Paginated User List
 User Edit and Delete Capabilities
 Responsive Design
 
->> Prerequisites
+> Prerequisites :
 Node.js (v14 or later)
 npm or yarn
 
->> Installation
+> Installation :
 Clone the Repository
  git clone 
 cd frontend
 
 
->> Install Dependencies
+> Install Dependencies :
 npm install
 # or
 yarn install
 
->>Running the Application
+> Running the Application :
 npm start
 # or
 yarn start
@@ -35,7 +35,7 @@ yarn start
 
 The application will run on http://localhost:5173
 
->> Project Structure
+ Project Structure
 Copysrc/
 ├── components/
 │   ├── Login/
@@ -47,15 +47,15 @@ Copysrc/
 └── App.js
 
 
->> API Endpoints Used
+>> API Endpoints Used :
 
-Authentication: POST /api/login
-List Users: GET /api/users?page=1
-Update User: PUT /api/users/{id}
-Delete User: DELETE /api/users/{id}
+   Authentication: POST /api/login
+   List Users: GET /api/users?page=1
+   Update User: PUT /api/users/{id}
+   Delete User: DELETE /api/users/{id}
 
 
->>Configuration
+> Configuration
 
 Base API URL: https://reqres.in/
 Test Login Credentials:
@@ -64,25 +64,25 @@ Email: eve.holt@reqres.in
 Password: cityslicka
 
 
->>> Assumptions and Considerations
+>> Assumptions and Considerations
 
->> Token Management
+> Token Management
 
 Login token is stored in local storage
 Users are redirected to login if token is missing or expired
 
->> Error Handling
+> Error Handling
 
 Graceful API error handling
 Form validation implemented for login and edit screens
 
->> Responsive Design
+> Responsive Design
 
 Application works on desktop and mobile devices
 Responsive layout using CSS framework or custom CSS
 
 
->>> Tech Stack
+>> Tech Stack
 
 React
 Axios (or Fetch API)
@@ -97,6 +97,6 @@ Deployed on Netlify
 
 
 Contact
-[Your Name]
-[Your Email]
-Project Link: [Repository URL]
+   D.Sai Vignesh
+   dhamerla2004@gmail.com
+   Project Link: 
