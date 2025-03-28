@@ -1,7 +1,7 @@
 
 Deployed Link : 
 
->>>EmployWise User Management Application
+EmployWise User Management Application
 
 Project Overview
 This is a React-based user management application that integrates with the Reqres API to provide authentication, user listing, editing, and deletion functionality.
